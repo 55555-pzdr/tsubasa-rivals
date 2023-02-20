@@ -1,0 +1,10 @@
+- type: toughness
+  val: 2057
+  commands: 2
+  main: 1
+- type: agility
+  val: 1213
+  commands: 2
+- type: skill
+  val: 1416
+  commands: 2
