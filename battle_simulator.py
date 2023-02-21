@@ -29,8 +29,8 @@ def calc_own_rps(own_data, c_list):
 def check_win_or_lose(enemy_rps, own_data):
   # explore if there is a winning combination for the enemy
   #   - https://hiraocafe.com/note/kumiwake.html
-  #     (7) How to divide 6 different balls into 3 people.
-  #         However, there is no one who does not receive
+  #     (6) A method of dividing 6 different balls into 3 players.
+  #         However, some people may not receive it.
   for c1 in (0, 1, 2):
     for c2 in (0, 1, 2):
       for c3 in (0, 1, 2):
